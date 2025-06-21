@@ -24,6 +24,11 @@
      git status
      rm testing.py
 
+
+
+
+
+
 this is new changes
      ls
      git status
@@ -31,3 +36,12 @@ this is new changes
      clear
      git status
      history
+
+
+
+
+
+
+
+
+this is new changes
