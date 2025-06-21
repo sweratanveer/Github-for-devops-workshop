@@ -1,0 +1,31 @@
+      git--version
+      % git config --global user.name "sweratanveer"
+      ls
+      cd downloads
+      ls
+      ls -a
+     ls -l
+     rm testing.py
+     gitinit
+     git init
+     ls
+     ls -a
+     dir
+     dir a
+     git status
+     ls
+     git add testing.py
+     git status
+     git add .
+     git status
+     git commit -m "add test files"
+     git status
+     clear
+     git status
+     rm testing.py
+     ls
+     git status
+     git restore testing.py
+     clear
+     git status
+     history
