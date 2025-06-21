@@ -23,6 +23,8 @@
      clear
      git status
      rm testing.py
+
+this is new changes
      ls
      git status
      git restore testing.py
